@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/TheMovieRewind/static/css/main.e305fa15.chunk.css",
-    "main.js": "/TheMovieRewind/static/js/main.1a069000.chunk.js",
-    "main.js.map": "/TheMovieRewind/static/js/main.1a069000.chunk.js.map",
+    "main.js": "/TheMovieRewind/static/js/main.7dbb4467.chunk.js",
+    "main.js.map": "/TheMovieRewind/static/js/main.7dbb4467.chunk.js.map",
     "runtime-main.js": "/TheMovieRewind/static/js/runtime-main.aa1b6e00.js",
     "runtime-main.js.map": "/TheMovieRewind/static/js/runtime-main.aa1b6e00.js.map",
     "static/css/2.d00cefaa.chunk.css": "/TheMovieRewind/static/css/2.d00cefaa.chunk.css",
     "static/js/2.283aa4fc.chunk.js": "/TheMovieRewind/static/js/2.283aa4fc.chunk.js",
     "static/js/2.283aa4fc.chunk.js.map": "/TheMovieRewind/static/js/2.283aa4fc.chunk.js.map",
     "index.html": "/TheMovieRewind/index.html",
-    "precache-manifest.1e8b997f8dbdd8f40bd1f953217cd38c.js": "/TheMovieRewind/precache-manifest.1e8b997f8dbdd8f40bd1f953217cd38c.js",
+    "precache-manifest.fbda8a2f59ea6e6706d7825b682376aa.js": "/TheMovieRewind/precache-manifest.fbda8a2f59ea6e6706d7825b682376aa.js",
     "service-worker.js": "/TheMovieRewind/service-worker.js",
     "static/css/2.d00cefaa.chunk.css.map": "/TheMovieRewind/static/css/2.d00cefaa.chunk.css.map",
     "static/css/main.e305fa15.chunk.css.map": "/TheMovieRewind/static/css/main.e305fa15.chunk.css.map",
@@ -21,6 +21,6 @@
     "static/css/2.d00cefaa.chunk.css",
     "static/js/2.283aa4fc.chunk.js",
     "static/css/main.e305fa15.chunk.css",
-    "static/js/main.1a069000.chunk.js"
+    "static/js/main.7dbb4467.chunk.js"
   ]
 }

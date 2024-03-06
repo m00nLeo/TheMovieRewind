@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "ce0637fbce064520b63b35d6ff859c7a",
+    "revision": "ba2dccfcdcdd229cf3c7db96a5ca4512",
     "url": "/TheMovieRewind/index.html"
   },
   {
@@ -8,7 +8,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/TheMovieRewind/static/css/2.d00cefaa.chunk.css"
   },
   {
-    "revision": "4d6b68d964eb023fee47",
+    "revision": "4201faf84534d55a5ccb",
     "url": "/TheMovieRewind/static/css/main.e305fa15.chunk.css"
   },
   {
@@ -20,8 +20,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/TheMovieRewind/static/js/2.283aa4fc.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "4d6b68d964eb023fee47",
-    "url": "/TheMovieRewind/static/js/main.1a069000.chunk.js"
+    "revision": "4201faf84534d55a5ccb",
+    "url": "/TheMovieRewind/static/js/main.7dbb4467.chunk.js"
   },
   {
     "revision": "6492fb4e7ddf97fec4b4",

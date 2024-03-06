@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/TheMovieRewind/precache-manifest.1e8b997f8dbdd8f40bd1f953217cd38c.js"
+  "/TheMovieRewind/precache-manifest.fbda8a2f59ea6e6706d7825b682376aa.js"
 );
 
 self.addEventListener('message', (event) => {
